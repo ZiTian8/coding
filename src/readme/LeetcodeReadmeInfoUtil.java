@@ -23,7 +23,7 @@ public class LeetcodeReadmeInfoUtil {
 
     private static final String questionUrl = "https://leetcode-cn.com/problemset/algorithms/";
     private static final String graphqlUrl = "https://leetcode-cn.com/graphql";
-    private static final String repositoryUrl = "https://github.com/MrSorrow/cc-leetcode/blob/master/src/";
+    private static final String repositoryUrl = "https://github.com/ZiTian8/cod/tree/master/src/";
     private static final String chineseQuestionUrl = "https://leetcode-cn.com/problems/translatedTitle/description/";
     private static final String englishQuestionUrl = "https://leetcode.com/problems/questionTitle/description/";
 

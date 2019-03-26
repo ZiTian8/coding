@@ -20,10 +20,10 @@ import java.util.Date;
 public class Sword2OfferGenerateReadme {
 
     public static void main(String[] args) {
-        String questionId = "3";
-        String questionName = "数组中重复的数字";
-        String questionUrl = "https://www.nowcoder.com/practice/623a5ac0ea5b4e5f95552655361ae0a8";
-        String answerPath = "sword2offer.UniqueNumInArray";
+        String questionId = "4";
+        String questionName = "二维数组中的查找";
+        String questionUrl = "https://www.nowcoder.com/questionTerminal/abc3fe2ce8e146608e868a70efebf62e";
+        String answerPath = "sword2offer.FindNumberIn2DArray";
 
         String readmeFilePath = "d:\\z-java\\leetcode\\Readme.md";
         String tableName = "剑指Offer Solution Table";
