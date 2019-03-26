@@ -47,6 +47,25 @@ public class DuplicateNumbersInArray {
 
 
     }
+    //不另外使用空间
+    public static boolean duplicate1(int numbers[], int length, int[] duplication) {
+        if(length<=1){
+            return false;
+        }
+        for(int i =0;i<length;i++){
+            while(numbers[i]!=i){
+                if(numbers[i]!=numbers[numbers[i]]){
+                    int tem = numbers[numbers[i]];
+                    numbers[numbers[i]]=numbers[i];
+                    numbers[i]=tem;
+                }else{
+                    duplication[0]=numbers[i];
+                    return true;
+                }
+            }
+        }
+        return false;
+    }
 
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
@@ -57,7 +76,7 @@ public class DuplicateNumbersInArray {
         for(int i =0;i<length;i++){
             numbers[i]=sc.nextInt();
         }
-        System.out.println(duplicate(numbers,length,duplication));
+        System.out.println(duplicate1(numbers,length,duplication));
         System.out.println(duplication[0]);
     }
 }
