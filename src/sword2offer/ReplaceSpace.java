@@ -8,6 +8,7 @@
 package sword2offer;
 
 import java.util.Scanner;
+import java.util.concurrent.*;
 
 public class ReplaceSpace {
     public static String replaceSpace(StringBuffer str) {
@@ -49,8 +50,23 @@ public class ReplaceSpace {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String s=sc.nextLine();
+
         StringBuffer str = new StringBuffer(s);
+        System.out.println(str.capacity());
+        System.out.println(str.length());
         System.out.println(replaceSpace(str));
 
+
+
+//        ThreadPoolExecutor threadPool= new ThreadPoolExecutor(corePoolSize,maxmumPoolSize,keepAliveTime,milliseconds,runnableTeskQueue,handler);
+//        threadPool.execute(new Runnable() {
+//            @Override
+//            public void run() {
+//                //...
+//            }
+//        });
+//        ExecutorService executor = Executors.newSingleThreadExecutor();
+//
+//        Future<Object> future= executor.submit();
     }
 }
