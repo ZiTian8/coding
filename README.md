@@ -1,4 +1,4 @@
-# coding 
+# coding  
 ![](https://img.shields.io/badge/java-1.8-blue.svg)
 
 # 剑指Offer Solution Table
@@ -11,4 +11,5 @@
 | 6    | [从尾到头打印链表](https://www.nowcoder.com/questionTerminal/d0267f7f55b3412ba93bd35cfa8e8035) | [Java](https://github.com/ZiTian8/cod/tree/master/src/sword2offer/PrintListFromTailToHead.java) | 2019-03-27 |
 | 7    | [重建二叉树](https://www.nowcoder.com/questionTerminal/8a19cbe657394eeaac2f6ea9b0f6fcf6) | [Java](https://github.com/ZiTian8/cod/tree/master/src/sword2offer/PrintListFromTailToHead.java) | 2019-03-28 |
 | 10    | [斐波那契数列](https://www.nowcoder.com/questionTerminal/c6c7742f5ba7442aada113136ddea0c3) | [Java](https://github.com/ZiTian8/cod/tree/master/src/sword2offer/PrintListFromTailToHead.java) | 2019-03-28 |
+| 101    | [青蛙跳台阶](https://www.nowcoder.com/questionTerminal/8c82a5b80378478f9484d87d1c5f12a4) | [Java](https://github.com/ZiTian8/cod/tree/master/src/sword2offer/PrintListFromTailToHead.java) | 2019-03-28 |
 
