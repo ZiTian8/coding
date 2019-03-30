@@ -1,4 +1,4 @@
-# coding   
+# coding    
 ![](https://img.shields.io/badge/java-1.8-blue.svg)
 
 # 剑指Offer Solution Table
@@ -13,5 +13,6 @@
 | 10    | [斐波那契数列](https://www.nowcoder.com/questionTerminal/c6c7742f5ba7442aada113136ddea0c3) | [Java](https://github.com/ZiTian8/cod/tree/master/src/sword2offer/Fibonacci.java) | 2019-03-28 |
 | 12    | [矩阵中的路径](https://www.nowcoder.com/questionTerminal/c61c6999eecb4b8f88a98f66b273a3cc) | [Java](https://github.com/ZiTian8/cod/tree/master/src/sword2offer/HasPath.java) | 2019-03-29 |
 | 14    | [剪绳子](https://www.nowcoder.com/questionTerminal/25b04bac36b840ab93f6fd913d1c7247) | [Java](https://github.com/ZiTian8/cod/tree/master/src/sword2offer/MaxProductAfterCutting.java) | 2019-03-29 |
+| 16    | [数值的整数次方](https://www.nowcoder.com/questionTerminal/1a834e5e3e1a4b7ba251417554e07c00) | [Java](https://github.com/ZiTian8/cod/tree/master/src/sword2offer/Power.java) | 2019-03-30 |
 | 101    | [青蛙跳台阶](https://www.nowcoder.com/questionTerminal/8c82a5b80378478f9484d87d1c5f12a4) | [Java](https://github.com/ZiTian8/cod/tree/master/src/sword2offer/PrintListFromTailToHead.java) | 2019-03-28 |
 
