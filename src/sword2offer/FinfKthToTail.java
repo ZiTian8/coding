@@ -15,17 +15,24 @@ public class FinfKthToTail {
         Node next ;
         Node(int x) { val = x; }
     }
-    public int FinfKthToTail(Node node,int k){
+    public Node FinfKthToTail(Node node,int k){
+        if(node==null||k<1){
+            return null;
+        }
+
         Node fast=node;
         Node low = node;
         for(int i=0;i<k;++i){
             fast=fast.next;
+            if (fast==null){
+                return null;
+            }
         }
         while(fast!=null){
             fast=fast.next;
             low=low.next;
         }
-        return low.val;
+        return low;
 
     }
 
@@ -42,7 +49,7 @@ public class FinfKthToTail {
 
         }
         FinfKthToTail f= new FinfKthToTail();
-        System.out.println(f.FinfKthToTail(node,3));
+        System.out.println(f.FinfKthToTail(node,3).val);
 
     }
 }
