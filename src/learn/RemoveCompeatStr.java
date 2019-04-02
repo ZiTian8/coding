@@ -5,7 +5,7 @@
  * @Version V1.0.0
  * @Date 2019/3/23 9:40
  */
-package test.test1;
+package learn;
 //字符串去重
 public class RemoveCompeatStr {
     //去除字符串中相邻重复的字符
