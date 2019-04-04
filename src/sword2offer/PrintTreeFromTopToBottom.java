@@ -31,13 +31,13 @@ public class PrintTreeFromTopToBottom {
             linkedList.add(root);
         }
         while(!linkedList.isEmpty()) {
-            TreeNode tem=(TreeNode) linkedList.poll();
+            TreeNode tem=(TreeNode) linkedList.poll();//pool取出并删除
             list.add(tem.val);
             if(tem.left!=null){
-                linkedList.offer(tem.left);
+                linkedList.offer(tem.left);//尾部添加
             }
             if(tem.right!=null){
-                linkedList.offer(tem.right);
+                linkedList.offer(tem.right);//尾部添加
             }
         }
         return list;
@@ -49,7 +49,7 @@ public class PrintTreeFromTopToBottom {
         ArrayList list = new ArrayList();
         ArrayList list2 = new ArrayList();
 
-        LinkedList linkedList = new LinkedList();
+        LinkedList linkedList = new LinkedList();//
         if(root!=null){
             linkedList.add(root);
             list2.add(1);
