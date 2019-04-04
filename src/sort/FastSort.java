@@ -14,7 +14,7 @@ import java.util.Random;
 //快速排序
 public class FastSort {
     public static void sort(int[] a,int lo,int hi){
-        ;
+
         if(hi<=lo ){
             return;
         }
