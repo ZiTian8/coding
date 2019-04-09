@@ -1,4 +1,7 @@
+
+
 # coding 
+
 ![](https://img.shields.io/badge/java-1.8-blue.svg)
 
 # 剑指Offer Solution Table
@@ -21,4 +24,10 @@
 | 25    | [合并链表](https://www.nowcoder.com/questionTerminal/27c833289e5f4f5e9ba3718ce9136759) | [Java](https://github.com/ZiTian8/cod/tree/master/src/sword2offer/MergeList.java) | 2019-04-08 |
 | 32    | [从上到下打印二叉树](https://www.nowcoder.com/questionTerminal/7fe2212963db4790b57431d9ed259701) | [Java](https://github.com/ZiTian8/cod/tree/master/src/sword2offer/PrintTreeFromTopToBottom.java) | 2019-04-01 |
 | 101    | [青蛙跳台阶](https://www.nowcoder.com/questionTerminal/8c82a5b80378478f9484d87d1c5f12a4) | [Java](https://github.com/ZiTian8/cod/tree/master/src/sword2offer/PrintListFromTailToHead.java) | 2019-03-28 |
+
+## LeetCode Solution Table
+
+| ID   | 题名 | Title | 难度 | Answer | Date |
+| ---- | ---- | ----- | ---- | ------ | ---- |
+| 171    | [Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/description/) | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/) | Easy       | [Java](https://github.com/ZiTian8/cod/tree/master/src/leetcode/easy/TitleToNumber.java) | 2019-04-09 |
 
