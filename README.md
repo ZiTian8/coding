@@ -4,7 +4,7 @@
 
 ![](https://img.shields.io/badge/java-1.8-blue.svg)
 
-# 剑指Offer Solution Table 
+# 剑指Offer Solution Table  
 
 | ID   | 题名 | answer | date |
 | ---- | ---- | ------ | ---- |
@@ -25,6 +25,7 @@
 | 27    | [二叉树的镜像](https://www.nowcoder.com/questionTerminal/564f4c26aa584921bc75623e48ca3011) | [Java](https://github.com/ZiTian8/cod/tree/master/src/sword2offer/TreeMirror.java) | 2019-04-09 |
 | 28    | [对称的二叉树](https://www.nowcoder.com/questionTerminal/ff05d44dfdb04e1d83bdbdab320efbcb) | [Java](https://github.com/ZiTian8/cod/tree/master/src/sword2offer/TreeIsSymmetrical.java) | 2019-04-09 |
 | 29    | [顺时针打印矩阵](https://www.nowcoder.com/questionTerminal/97e7a475d2a84eacb60ee545597a8407) | [Java](https://github.com/ZiTian8/cod/tree/master/src/sword2offer/ClockwisePrint.java) | 2019-04-10 |
+| 30    | [包含min函数的栈](https://www.nowcoder.com/questionTerminal/4c776177d2c04c2494f2555c9fcc1e49) | [Java](https://github.com/ZiTian8/cod/tree/master/src/sword2offer/IncludeMinStack.java) | 2019-04-10 |
 | 32    | [从上到下打印二叉树](https://www.nowcoder.com/questionTerminal/7fe2212963db4790b57431d9ed259701) | [Java](https://github.com/ZiTian8/cod/tree/master/src/sword2offer/PrintTreeFromTopToBottom.java) | 2019-04-01 |
 | 101    | [青蛙跳台阶](https://www.nowcoder.com/questionTerminal/8c82a5b80378478f9484d87d1c5f12a4) | [Java](https://github.com/ZiTian8/cod/tree/master/src/sword2offer/PrintListFromTailToHead.java) | 2019-03-28 |
 
