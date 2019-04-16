@@ -5,7 +5,7 @@
  * @Version V1.0.0
  * @Date 2019/4/16 18:41
  */
-package leetcode.Medium;
+package leetcode.medium;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -19,7 +19,6 @@ class TreeNode{
     }
 
 }
-
 public class VerifySquenceOfBST {
     //前序遍历二叉树
     public List<Integer> preorderTraversal(TreeNode root) {
@@ -88,16 +87,12 @@ public class VerifySquenceOfBST {
 
         res.add(root.val);
         return res;
-
-
     }
-
-
 
     public static void main(String[] args) {
         TreeNode head=new TreeNode(3);
         head.left=new TreeNode(1);
-        head.right=new TreeNode(2);
+        
         List res=new ArrayList();
         VerifySquenceOfBST vs =new VerifySquenceOfBST();
         res=vs.inorderTraversal(head);
