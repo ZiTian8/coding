@@ -21,53 +21,7 @@ class TreeNode{
 }
 
 public class VerifySquenceOfBST {
-    public boolean VerifySquenceOfBST(int [] sequence) {
-        int length=sequence.length;
-        if(sequence==null||length<=0){
-            return false;
-        }
-
-        int root=sequence[length-1];
-        int i=0;
-        while(root>sequence[i]){
-            ++i;
-        }
-
-        int j=i;
-        for(;j<length-1;++j){
-            if(sequence[j]<root){
-                return false;
-            }
-        }
-        boolean left=true;
-        if(i>0){
-            int[] leftseq=new int[i];
-            for (int k = 0; k < i; k++) {
-                leftseq[k]=sequence[k];
-
-            }
-
-            left=VerifySquenceOfBST(leftseq);
-        }
-
-        boolean right=true;
-        if(i<length-1){
-            int[] rightseq=new int[length-i-1];
-            for (int k = i+1; k <length-1; k++) {
-                rightseq[k-i-1]=sequence[k];
-            }
-            right=VerifySquenceOfBST(rightseq);
-        }
-        return left&right;
-
-
-
-
-
-    }
     //前序遍历二叉树
-
-
     public List<Integer> preorderTraversal(TreeNode root) {
         List<Integer> res=new ArrayList<>();
         if (root == null) {
@@ -76,7 +30,6 @@ public class VerifySquenceOfBST {
         return fun1(root, res);
 
     }
-    //前序遍历
     private List<Integer> fun1(TreeNode root, List<Integer> res) {
 
         res.add(root.val);
@@ -112,7 +65,7 @@ public class VerifySquenceOfBST {
 
     }
 
-    //后遍历
+    //后序遍历
     public List<Integer>  postorderTraversal(TreeNode root) {
         List<Integer> res=new ArrayList<>();
         if (root == null) {
