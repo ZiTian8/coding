@@ -29,13 +29,13 @@
 | 31    | [栈的压入、弹出序列](https://www.nowcoder.com/questionTerminal/d77d11405cc7470d82554cb392585106) | [Java](https://github.com/ZiTian8/cod/tree/master/src/sword2offer/IsPopOrder.java) | 2019-04-11 |
 | 32    | [从上到下打印二叉树](https://www.nowcoder.com/questionTerminal/7fe2212963db4790b57431d9ed259701) | [Java](https://github.com/ZiTian8/cod/tree/master/src/sword2offer/PrintTreeFromTopToBottom.java) | 2019-04-01 |
 | 33    | [二叉搜索树的后序遍历序列](https://www.nowcoder.com/questionTerminal/a861533d45854474ac791d90e447bafd) | [Java](https://github.com/ZiTian8/cod/tree/master/src/sword2offer/VerifySquenceOfBST.java) | 2019-04-16 |
+| 34    | [二叉树中和为某一值的路径](https://www.nowcoder.com/questionTerminal/b736e784e3e34731af99065031301bca) | [Java](https://github.com/ZiTian8/cod/tree/master/src/sword2offer/FindPathFromTree.java) | 2019-04-19 |
 | 101    | [青蛙跳台阶](https://www.nowcoder.com/questionTerminal/8c82a5b80378478f9484d87d1c5f12a4) | [Java](https://github.com/ZiTian8/cod/tree/master/src/sword2offer/PrintListFromTailToHead.java) | 2019-03-28 |
 
 ## LeetCode Solution Table
 
 | ID   | 题名 | Title | 难度 | Answer | Date |
 | ---- | ---- | ----- | ---- | ------ | ---- |
-| 94    | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/description/) | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | Medium       | [Java](https://github.com/ZiTian8/cod/tree/master/src/leetcode/medium/VerifySquenceOfBST.java) | 2019-04-16 |
 | 144    | [二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/description/) | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | Medium       | [Java](https://github.com/ZiTian8/cod/tree/master/src/leetcode/medium/VerifySquenceOfBST.java) | 2019-04-16 |
 | 145    | [二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/description/) | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | Hard       | [Java](https://github.com/ZiTian8/cod/tree/master/src/leetcode/medium/VerifySquenceOfBST.java) | 2019-04-16 |
 | 171    | [Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/description/) | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/) | Easy       | [Java](https://github.com/ZiTian8/cod/tree/master/src/leetcode/easy/TitleToNumber.java) | 2019-04-09 |
