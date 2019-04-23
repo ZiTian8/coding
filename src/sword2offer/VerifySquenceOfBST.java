@@ -65,8 +65,6 @@ public class VerifySquenceOfBST {
 
     }
     //前序遍历二叉树
-
-
     public List<Integer> preorderTraversal(TreeNode root) {
         List<Integer> res=new ArrayList<>();
         if (root == null) {
@@ -75,7 +73,6 @@ public class VerifySquenceOfBST {
         return fun1(root, res);
 
     }
-    //前序遍历
     private List<Integer> fun1(TreeNode root, List<Integer> res) {
 
         res.add(root.val);
@@ -87,6 +84,7 @@ public class VerifySquenceOfBST {
         }
         return res;
     }
+
     //中序遍历
     public List<Integer> inorderTraversal(TreeNode root) {
         List<Integer> res=new ArrayList<>();
@@ -97,8 +95,6 @@ public class VerifySquenceOfBST {
 
     }
     private List<Integer> fun2(TreeNode root, List<Integer> res) {
-
-
         if (root.left!=null){
             fun2(root.left,res);
         }

@@ -92,7 +92,7 @@ public class VerifySquenceOfBST {
     public static void main(String[] args) {
         TreeNode head=new TreeNode(3);
         head.left=new TreeNode(1);
-        
+
         List res=new ArrayList();
         VerifySquenceOfBST vs =new VerifySquenceOfBST();
         res=vs.inorderTraversal(head);
