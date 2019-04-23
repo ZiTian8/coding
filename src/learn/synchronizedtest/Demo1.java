@@ -14,7 +14,8 @@ public class Demo1 implements Runnable{
         count = 0;
     }
 
-    public void run() {
+    public void run
+            () {
         synchronized(this) {
             for (int i = 0; i < 5; i++) {
                 try {
