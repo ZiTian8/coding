@@ -8,7 +8,9 @@
 package learn;
 
 import java.util.concurrent.CountDownLatch;
-
+//await()会阻塞当前线程，直到N为0
+//countDown()会使N减去1
+//当N为0时，被阻塞的线程就会往下运行
 public class CountDownLatchTest {
     public static void main(String[] args) {
         CountDownLatch begin = new CountDownLatch(1);
