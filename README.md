@@ -31,8 +31,10 @@
 | 33    | [二叉搜索树的后序遍历序列](https://www.nowcoder.com/questionTerminal/a861533d45854474ac791d90e447bafd) | [Java](https://github.com/ZiTian8/cod/tree/master/src/sword2offer/VerifySquenceOfBST.java) | 2019-04-16 |
 | 34    | [二叉树中和为某一值的路径](https://www.nowcoder.com/questionTerminal/b736e784e3e34731af99065031301bca) | [Java](https://github.com/ZiTian8/cod/tree/master/src/sword2offer/FindPathFromTree.java) | 2019-04-19 |
 | 35    | [复杂链表的复制](https://www.nowcoder.com/questionTerminal/f836b2c43afc4b35ad6adc41ec941dba) | [Java](https://github.com/ZiTian8/cod/tree/master/src/sword2offer/NodeClone.java) | 2019-04-23 |
+| 38    | [字符串的排列](https://www.nowcoder.com/questionTerminal/4f31423f126749ab9196c97c5117bcb9) | [Java](https://github.com/ZiTian8/cod/tree/master/src/sword2offer/Permutation38.java) | 2019-05-06 |
+| 39    | [数组中出现次数超过一半的数字](https://www.nowcoder.com/questionTerminal/e8a1b01a2df14cb2b228b30ee6a92163) | [Java](https://github.com/ZiTian8/cod/tree/master/src/sword2offer/MoreThanHalfNum39.java) | 2019-05-06 |
 | 101    | [青蛙跳台阶](https://www.nowcoder.com/questionTerminal/8c82a5b80378478f9484d87d1c5f12a4) | [Java](https://github.com/ZiTian8/cod/tree/master/src/sword2offer/PrintListFromTailToHead.java) | 2019-03-28 |
-
+ 
 ## LeetCode Solution Table 
 | ID   | 题名 | Title | 难度 | Answer | Date |
 | ---- | ---- | ----- | ---- | ------ | ---- |
