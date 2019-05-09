@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/java-1.8-blue.svg)
 
 # 剑指Offer Solution Table   
-
+ 
 | ID   | 题名 | answer | date |
 | ---- | ---- | ------ | ---- |
 | 3    | [数组中重复的数字](https://www.nowcoder.com/practice/623a5ac0ea5b4e5f95552655361ae0a8) | [Java](https://github.com/ZiTian8/cod/tree/master/src/sword2offer/DuplicateNumbersInArray.java) | 2019-03-25 |
@@ -38,6 +38,7 @@
 ## LeetCode Solution Table 
 | ID   | 题名 | Title | 难度 | Answer | Date |
 | ---- | ---- | ----- | ---- | ------ | ---- |
+| 53    | [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/description/) | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | Easy       | [Java](https://github.com/ZiTian8/cod/tree/master/src/leetcode/easy/MaxSumSubArray.java) | 2019-05-09 |
 | 138    | [复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/description/) | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) | Medium       | [Java](https://github.com/ZiTian8/cod/tree/master/src/leetcode/medium/NodeClone.java) | 2019-04-23 |
 | 144    | [二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/description/) | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | Medium       | [Java](https://github.com/ZiTian8/cod/tree/master/src/leetcode/medium/VerifySquenceOfBST.java) | 2019-04-16 |
 | 145    | [二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/description/) | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | Hard       | [Java](https://github.com/ZiTian8/cod/tree/master/src/leetcode/medium/VerifySquenceOfBST.java) | 2019-04-16 |
