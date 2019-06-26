@@ -34,10 +34,11 @@
 | 38    | [字符串的排列](https://www.nowcoder.com/questionTerminal/4f31423f126749ab9196c97c5117bcb9) | [Java](https://github.com/ZiTian8/cod/tree/master/src/sword2offer/Permutation38.java) | 2019-05-06 |
 | 39    | [数组中出现次数超过一半的数字](https://www.nowcoder.com/questionTerminal/e8a1b01a2df14cb2b228b30ee6a92163) | [Java](https://github.com/ZiTian8/cod/tree/master/src/sword2offer/MoreThanHalfNum39.java) | 2019-05-06 |
 | 101    | [青蛙跳台阶](https://www.nowcoder.com/questionTerminal/8c82a5b80378478f9484d87d1c5f12a4) | [Java](https://github.com/ZiTian8/cod/tree/master/src/sword2offer/PrintListFromTailToHead.java) | 2019-03-28 |
- 
+  
 ## LeetCode Solution Table 
 | ID   | 题名 | Title | 难度 | Answer | Date |
 | ---- | ---- | ----- | ---- | ------ | ---- |
+| 2    | [两数相加](https://leetcode-cn.com/problems/add-two-numbers/description/) | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | Medium       | [Java](https://github.com/ZiTian8/cod/tree/master/src/leetcode/medium/AddTwoNumbers.java) | 2019-06-26 |
 | 53    | [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/description/) | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | Easy       | [Java](https://github.com/ZiTian8/cod/tree/master/src/leetcode/easy/MaxSumSubArray.java) | 2019-05-09 |
 | 138    | [复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/description/) | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) | Medium       | [Java](https://github.com/ZiTian8/cod/tree/master/src/leetcode/medium/NodeClone.java) | 2019-04-23 |
 | 144    | [二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/description/) | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | Medium       | [Java](https://github.com/ZiTian8/cod/tree/master/src/leetcode/medium/VerifySquenceOfBST.java) | 2019-04-16 |
