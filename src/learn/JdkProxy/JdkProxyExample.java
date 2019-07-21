@@ -25,7 +25,7 @@ public class JdkProxyExample implements InvocationHandler {
 
         /**
          * 三个参数
-         * 1、target.getClass().getClassLoader()：类加载器，采用target本身的类加载器
+         * 1、target.getClass().getClassaLoder()：类加载器，采用target本身的类加载器
          * 2、target.getClass().getInterfaces()：是把生成的动态代理对象下挂在哪些接口，这里就是放在target实现的接口下：
          * 3、this：定义实现方法逻辑的代理类，this表示当前对象，它必须实现InvocationHandler接口的invoke方法，他就是代理逻辑方法的现实方法
          */

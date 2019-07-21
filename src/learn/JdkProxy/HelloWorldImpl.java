@@ -7,7 +7,7 @@
  */
 package learn.JdkProxy;
 
-import learn.StaticProxy.HelloWord;
+
 
 public class HelloWorldImpl implements HelloWord {
     @Override

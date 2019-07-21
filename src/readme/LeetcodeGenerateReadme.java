@@ -12,10 +12,10 @@ public class LeetcodeGenerateReadme {
 
     public static void main(String[] args) {
 
-        String questionUrlName = "binary-tree-right-side-view";
-        String answerPath = "leetcode.mid.BinaryTreeRightSideView";
+        String questionUrlName = "multiply-strings";
+        String answerPath = "leetcode.medium.Multiply";
 
-        String readmeFilePath = "E:\\eclipse\\cc-leetcode\\Readme.md";
+        String readmeFilePath = "e:\\z-java\\leetcode\\Readme.md";
         String tableName = "LeetCode Solution Table";
 
         LeetcodeQuestionInfo questionInfo = null;

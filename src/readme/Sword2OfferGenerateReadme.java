@@ -20,10 +20,10 @@ import java.util.Date;
 public class Sword2OfferGenerateReadme {
 
     public static void main(String[] args) {
-        String questionId = "4";
-        String questionName = "二维数组中的查找";
-        String questionUrl = "https://www.nowcoder.com/questionTerminal/abc3fe2ce8e146608e868a70efebf62e";
-        String answerPath = "sword2offer.FindNumberIn2DArray";
+        String questionId = "38";
+        String questionName = "字符串的排列";
+        String questionUrl = "https://www.nowcoder.com/questionTerminal/4f31423f126749ab9196c97c5117bcb9";
+        String answerPath = "sword2offer.Permutation38";
 
         String readmeFilePath = "d:\\z-java\\leetcode\\Readme.md";
         String tableName = "剑指Offer Solution Table";

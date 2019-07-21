@@ -10,7 +10,7 @@ package sort;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-//堆排序
+//堆排序,大的在上，可以用来求最小topk问题
 public class HeapSort {
 
     public static int[] sort(int[] array) {
@@ -44,10 +44,11 @@ public class HeapSort {
             if (index < tail && array[index] < array[index + 1]) {
                 index++;
             }
+            //父节点大于子节点，不交换
             if (array[k] >= array[index]) {
                 break;
             }
-            // 交换
+            // 交换，父节点小于子节点
             int temp = array[k];
             array[k] = array[index];
             array[index] = temp;
