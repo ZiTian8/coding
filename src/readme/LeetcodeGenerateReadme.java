@@ -12,10 +12,10 @@ public class LeetcodeGenerateReadme {
 
     public static void main(String[] args) {
 
-        String questionUrlName = "multiply-strings";
-        String answerPath = "leetcode.medium.Multiply";
+        String questionUrlName = "4sum";
+        String answerPath = "leetcode.medium.FourSum18";
 
-        String readmeFilePath = "e:\\z-java\\leetcode\\Readme.md";
+        String readmeFilePath = "e:\\z-java\\leetcode\\README.md";
         String tableName = "LeetCode Solution Table";
 
         LeetcodeQuestionInfo questionInfo = null;

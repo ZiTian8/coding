@@ -25,7 +25,7 @@ public class Sword2OfferGenerateReadme {
         String questionUrl = "https://www.nowcoder.com/questionTerminal/4f31423f126749ab9196c97c5117bcb9";
         String answerPath = "sword2offer.Permutation38";
 
-        String readmeFilePath = "d:\\z-java\\leetcode\\Readme.md";
+        String readmeFilePath = "d:\\z-java\\leetcode\\README.md";
         String tableName = "剑指Offer Solution Table";
 
         Sword2OfferQInfo questionInfo = null;
