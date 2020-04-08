@@ -7,5 +7,9 @@
     </content>
     <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="gson-2.8.5" level="project" />
+    <orderEntry type="library" name="jsoup-1.11.3" level="project" />
+    <orderEntry type="library" name="okhttp-3.11.0" level="project" />
+    <orderEntry type="library" name="okio-1.14.1" level="project" />
   </component>
 </module>

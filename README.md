@@ -35,7 +35,7 @@
 | 39    | [数组中出现次数超过一半的数字](https://www.nowcoder.com/questionTerminal/e8a1b01a2df14cb2b228b30ee6a92163) | [Java](https://github.com/ZiTian8/cod/tree/master/src/sword2offer/MoreThanHalfNum39.java) | 2019-05-06 |
 | 101    | [青蛙跳台阶](https://www.nowcoder.com/questionTerminal/8c82a5b80378478f9484d87d1c5f12a4) | [Java](https://github.com/ZiTian8/cod/tree/master/src/sword2offer/PrintListFromTailToHead.java) | 2019-03-28 |
        
-## LeetCode Solution Table          
+## LeetCode Solution Table         
 | ID   | 题名 | Title | 难度 | Answer | Date |
 | ---- | ---- | ----- | ---- | ------ | ---- |
 | 2    | [两数相加](https://leetcode-cn.com/problems/add-two-numbers/description/) | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | Medium       | [Java](https://github.com/ZiTian8/cod/tree/master/src/leetcode/medium/AddTwoNumbers.java) | 2019-06-26 |
